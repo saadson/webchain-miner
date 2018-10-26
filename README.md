@@ -26,7 +26,7 @@ Originally based on XMRig with changes that allows mining WEB.
 ## Download
 * Binary releases: https://github.com/saadson/webchain-miner/releases
 * Git tree: https://github.com/saadson/webchain-miner.git
-  * Clone with `git clone https://github.com/webchain-network/webchain-miner.git` :hammer: [Build instructions](https://github.com/xmrig/xmrig/wiki/Build).
+  * Clone with `git clone https://github.com/saadson/webchain-miner.git` :hammer: [Build instructions](https://github.com/xmrig/xmrig/wiki/Build).
 
 ## Usage
 
